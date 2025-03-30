@@ -1,2 +1,9 @@
 
 welcome to pgtttl! (aka python games took to the limit)
+
+also it will say stuff like "i have control of your pc" or so.
+
+remember they is not realy a virus and is only a game.
+
+plus, to stop the game you just close command promt.
+
