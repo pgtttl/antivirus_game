@@ -17,6 +17,8 @@ the safe one will not.
 
 if you want, use the safe one
 
+also read directions
+
 -caleb
 
 
