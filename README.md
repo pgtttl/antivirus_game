@@ -19,6 +19,8 @@ if you want, use the safe one
 
 also read directions
 
+also this is a scrap game and i was just experimenting with python.
+
 -caleb
 
 
