@@ -1,0 +1,34 @@
+directions:
+
+
+
+
+Step-by-Step Setup Instructions
+1. Install Python
+Download and install Python from the official website: https://www.python.org/downloads/.
+
+During installation, ensure to check the box "Add Python to PATH" so Python can be accessed from the command prompt.
+
+2. Install Required Libraries
+After installing Python:
+
+Open Command Prompt (or Terminal on macOS/Linux).
+
+Run the following command to install the necessary Python libraries:
+
+
+pip install pyttsx3 pygame tk
+
+
+3. Set Up the Script
+Create a folder on your computer and place the script file (antivirus game!.py) inside the folder.
+
+Ensure the images (person.png, person2.png, person3.png, and hehe1.png) are also inside the same folder as the script.
+
+4. Running the Script
+
+open the file with python.
+ if it does not work, message me.
+
+
+
