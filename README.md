@@ -7,5 +7,10 @@ remember they is not realy a virus and is only a game.
 
 plus, to stop the game you just close command promt.
 
+and it will act like a virus.
+
+again, THIS IS ONLY A GAME.
+
+
 
 
