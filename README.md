@@ -15,7 +15,7 @@ the normal game can add files to your desktop or bluescreen your pc.
 
 the safe one will not.
 
-if you want, use the
+if you want, use the safe one
 
 -caleb
 
