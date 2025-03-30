@@ -57,24 +57,7 @@ def main():
     display_image(person_image)
     speak_and_show_image(text)
     
-    # Wait a bit for the speech to finish
-    time.sleep(3)  # Adjust the sleep time if needed
-
-    # Create the 999 help files on the desktop
-    create_help_files()
-
-    # Wait for a moment before showing the second message
-    time.sleep(1)
-
-    # Display image and say the second speech
-    display_image(person_image)
-    second_text = "will not add 999 files."
-    speak_and_show_image(second_text)
-
-    # Wait a moment before showing the third message
-    time.sleep(1)
-
-    # Display image and say the third speech
+      # Display image and say the third speech
     display_image(person_image)
     third_text = "Virus trying to bluescreen PC. I won't let that happen!"
     speak_and_show_image(third_text)
@@ -144,8 +127,8 @@ display_image(hehe1_image)
 speak_and_show_image("Hehe, I have control now!")  # Speak "Hehe, I have control now!"
 
 display_image(person_image)
-speak_and_show_image("oh god! your desktop!")
-speak_and_show_image("let me help!")
+speak_and_show_image("what just happened?")
+speak_and_show_image("let me help defete the virus!")
 speak_and_show_image("oh no! i can not delete it! the virus is blocking me!!")
 
 speak_and_show_image("wait... YOU HAVE THE STRAIT FACE VIRUS!!!!!!!!!")
@@ -173,8 +156,10 @@ display_image(person2_image)
 speak_and_show_image("Help")  # Speak "Help"
 display_image(person2_image)
 speak_and_show_image("Help")  # Speak "Help"
-speak_and_show_image("detected peer to peer conection")
+speak_and_show_image("detected peer to peer conection. (not realy it is just a game)   ")
 speak_and_show_image("strait_face.exe is trying to bluescreen")
 speak_and_show_image("HELP")
 speak_and_show_image("thanks for playing!")
+
+
 
