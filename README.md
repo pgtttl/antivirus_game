@@ -11,12 +11,11 @@ and it will act like a virus.
 
 again, THIS IS ONLY A GAME.
 
-and yes i will upload a "safe" version.
-
-the current one can add files to your desktop or bluescreen your pc.
+the normal game can add files to your desktop or bluescreen your pc.
 
 the safe one will not.
 
+if you want, use the
 
 -caleb
 
